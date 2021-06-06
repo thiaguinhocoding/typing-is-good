@@ -1,0 +1,8 @@
+{
+  "name": "typing-is-good",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiaguinhocoding/typing-is-good.git",
+  "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
+  "license": "MIT"
+}
